@@ -1,50 +1,50 @@
 {
     "Linear Regression": {
         "Train R2": 0.8743,
-        "Test R2": 0.8804
+        "Validation R2": 0.8587
     },
     "Ridge Regression": {
-        "Train R2": 0.8743,
-        "Test R2": 0.8804
+        "Train R2": 0.8739,
+        "Validation R2": 0.8597
     },
     "Lasso Regression": {
-        "Train R2": 0.8743,
-        "Test R2": 0.8806
+        "Train R2": 0.8736,
+        "Validation R2": 0.858
     },
     "ElasticNet": {
-        "Train R2": 0.8743,
-        "Test R2": 0.8808
+        "Train R2": 0.8724,
+        "Validation R2": 0.8586
     },
     "Decision Tree": {
         "Train R2": 0.855,
-        "Test R2": 0.8242
+        "Validation R2": 0.7837
     },
     "Random Forest": {
-        "Train R2": 0.9771,
-        "Test R2": 0.8525
+        "Train R2": 0.9648,
+        "Validation R2": 0.8248
     },
     "Extra Trees": {
         "Train R2": 0.9767,
-        "Test R2": 0.8489
+        "Validation R2": 0.83
     },
     "Gradient Boosting": {
         "Train R2": 0.905,
-        "Test R2": 0.8722
+        "Validation R2": 0.8369
     },
     "AdaBoost": {
-        "Train R2": 0.8578,
-        "Test R2": 0.8536
+        "Train R2": 0.8565,
+        "Validation R2": 0.8114
     },
     "K Neighbors": {
         "Train R2": 0.65,
-        "Test R2": 0.5144
+        "Validation R2": 0.5126
     },
     "XGBoost": {
         "Train R2": 0.9681,
-        "Test R2": 0.8478
+        "Validation R2": 0.8252
     },
     "CatBoost": {
         "Train R2": 0.8882,
-        "Test R2": 0.8702
+        "Validation R2": 0.8513
     }
 }

@@ -32,7 +32,7 @@ class DataIngestionConfig:
     test_data_path: str = os.path.join("artifacts", "test.csv")
 
     # Source dataset
-    source_data_path: str = os.path.join("notebook", "study.csv")
+    source_data_path: str = os.path.join("notebooks", "study.csv")
 
 
 # ==========================================================

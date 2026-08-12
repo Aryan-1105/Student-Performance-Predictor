@@ -216,3 +216,16 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+# ==========================================================
+# Project-Specific Generated Files
+# ==========================================================
+
+# CatBoost generated training files
+catboost_info/
+
+# Generated dataset splits
+artifacts/raw.csv
+artifacts/train.csv
+artifacts/test.csv
